@@ -5,17 +5,20 @@
 // a = -9 b = -3 -> max = -3
 
 Console.WriteLine("Enter num1 :  ");
-
-num1 = Console.ReadLine();
+int num1 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Enter num2 :  ");
+int num2 = Convert.ToInt32(Console.ReadLine());
 
-num2 = Console.ReadLine();
-
-int max = strNum1;
-
-if (num1 > num2) max = num1;
-
-if (num1 < num2) max = num2;
-
-Console.WriteLine("max");
+if (num1 == num2)
+{
+    Console.WriteLine($"Число: {num1} равно числу {num2}");
+}
+if (num1 < num2)
+{
+    Console.WriteLine($"Число: {num2} больше числа {num1}");
+}
+if (num1 > num2)
+{
+    Console.WriteLine($"Число: {num1} больше числа {num2}");
+}
