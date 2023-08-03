@@ -12,13 +12,13 @@ int num2 = Convert.ToInt32(Console.ReadLine());
 
 if (num1 == num2)
 {
-    Console.WriteLine($"Число: {num1} равно числу {num2}");
+    Console.WriteLine($"Число {num1} равно числу {num2}");
 }
 if (num1 < num2)
 {
-    Console.WriteLine($"Число: {num2} больше числа {num1}");
+    Console.WriteLine($"Число {num2} больше числа {num1}");
 }
 if (num1 > num2)
 {
-    Console.WriteLine($"Число: {num1} больше числа {num2}");
+    Console.WriteLine($"Число {num1} больше числа {num2}");
 }
