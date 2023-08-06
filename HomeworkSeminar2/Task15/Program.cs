@@ -24,4 +24,4 @@ else if (num >= 6 && num < 8)
 else if (num < 6)
 {
     Console.WriteLine($"{num} - это будний день");
-}  
+}
