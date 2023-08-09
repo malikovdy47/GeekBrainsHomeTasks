@@ -35,17 +35,5 @@ Console.WriteLine("Enter num8 : ");
 string strNum8 = Console.ReadLine();
 int num8 = int.Parse(strNum8);
 
-int [num1, num2, num3, num4, num5, num6, num7, num8] numbers = new int[8];
-Console.Write("[]");
-
-// for (int i = 0; i < numbers.Length; i++)
-//  {
-//     numbers [i] = new Random().Next(0, 11);
-//     Console.Write(" " + Method (i) + " ");
-//  }
-// Console.Write("]");
-
-// int Method (int a)
-// {
-//     return numbers[a];
-// }
+int[] numbers = {num1, num2, num3, num4, num5, num6, num7, num8};
+Console.Write($"[{num1}, {num2}, {num3}, {num4}, {num5}, {num6}, {num7}, {num8}]");
