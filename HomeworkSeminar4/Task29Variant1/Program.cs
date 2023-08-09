@@ -8,7 +8,7 @@ Console.Write("[");
 
 for (int i = 0; i < numbers.Length; i++)
  {
-    numbers [i] = new Random().Next(0, 11);
+    numbers [i] = new Random().Next(0, 100);
     Console.Write(" " + Method (i) + " ");
  }
 Console.Write("]");
