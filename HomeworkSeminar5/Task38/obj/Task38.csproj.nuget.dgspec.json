@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Денис\\Desktop\\Денис\\GeekBrains\\Семинары\\C#Homework\\HomeworkSeminar5\\Task38\\Task38.csproj": {}
+    "c:\\Users\\Денис\\Desktop\\Денис\\GeekBrains\\Семинары\\C#Homework\\HomeworkSeminar5\\Task38\\Task38.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Денис\\Desktop\\Денис\\GeekBrains\\Семинары\\C#Homework\\HomeworkSeminar5\\Task38\\Task38.csproj": {
+    "c:\\Users\\Денис\\Desktop\\Денис\\GeekBrains\\Семинары\\C#Homework\\HomeworkSeminar5\\Task38\\Task38.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Денис\\Desktop\\Денис\\GeekBrains\\Семинары\\C#Homework\\HomeworkSeminar5\\Task38\\Task38.csproj",
+        "projectUniqueName": "c:\\Users\\Денис\\Desktop\\Денис\\GeekBrains\\Семинары\\C#Homework\\HomeworkSeminar5\\Task38\\Task38.csproj",
         "projectName": "Task38",
-        "projectPath": "C:\\Users\\Денис\\Desktop\\Денис\\GeekBrains\\Семинары\\C#Homework\\HomeworkSeminar5\\Task38\\Task38.csproj",
+        "projectPath": "c:\\Users\\Денис\\Desktop\\Денис\\GeekBrains\\Семинары\\C#Homework\\HomeworkSeminar5\\Task38\\Task38.csproj",
         "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Денис\\Desktop\\Денис\\GeekBrains\\Семинары\\C#Homework\\HomeworkSeminar5\\Task38\\obj\\",
+        "outputPath": "c:\\Users\\Денис\\Desktop\\Денис\\GeekBrains\\Семинары\\C#Homework\\HomeworkSeminar5\\Task38\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config"
